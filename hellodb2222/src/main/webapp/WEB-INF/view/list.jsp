@@ -34,6 +34,7 @@
 <script type="text/javascript">
 function insertBtn_click(){
 	alert("gg");
+	alert("¤¾¤¾¤¾");
 }
 </script>
 </html>

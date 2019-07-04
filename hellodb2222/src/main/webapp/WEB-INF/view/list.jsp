@@ -27,7 +27,13 @@
 	</c:forEach>
 </table>
 
-<input type="button" value="입력" onclick="">
+<input type="button" value="입력" onclick="insertBtn_click()">
 
 </body>
+
+<script type="text/javascript">
+function insertBtn_click(){
+	alert("gg");
+}
+</script>
 </html>
